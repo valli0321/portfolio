@@ -1,4 +1,4 @@
-# Premium Developer Portfolio Website
+# Developer Portfolio Website
 
 A modern, professional, and fully responsive developer portfolio built with cutting-edge web technologies. This portfolio showcases a comprehensive collection of sections including hero, about, skills, projects, experience, education, and contact form.
 
