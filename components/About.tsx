@@ -109,7 +109,7 @@ export const About = () => {
           </motion.div>
 
           <motion.p
-            className="text-primary font-semibold text-lg"
+            className="text-primary text-center font-semibold text-lg"
             variants={itemVariants}
           >
             {portfolioData.about.skills_overview}
