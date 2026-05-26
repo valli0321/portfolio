@@ -95,7 +95,7 @@ export const portfolioData = {
     {
       id: 1,
       company: 'Aeonx Digital Technology Pvt. Ltd.',
-      position: 'Web Developer',
+      position: 'Trainee - Web Developer',
       duration: 'May 2024 - Sept 2025',
       description: 'Built and maintained inventory monitoring workflows.',
       achievements: [
