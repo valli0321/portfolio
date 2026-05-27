@@ -122,10 +122,10 @@ export const portfolioData = {
     {
       id: 1,
       school: 'Govind Ballabh Pant Institute of Engineering & Technology',
-      degree: 'Bachelor of Science in Computer Science',
+      degree: 'Bachelor of Technology in Computer Science & Engineering',
       duration: 'Aug 2019 - June 2023',
       achievements: [
-        // 'GPA: 3.8/4.0',
+        // 'Score: 77.34%',
         // 'Scholarship recipient',
         // 'President of Computer Science Club',
         // 'Published research on web optimization',

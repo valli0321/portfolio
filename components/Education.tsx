@@ -25,8 +25,8 @@ const EducationCard = ({ edu, index }: { edu: typeof portfolioData.education[0];
           </div>
 
           <div className="flex-grow">
-            <h3 className="text-xl font-bold text-foreground">{edu.degree}</h3>
-            <p className="text-primary font-semibold">{edu.school}</p>
+            <h3 className="text-xl font-semibold text-foreground">{edu.degree}</h3>
+            <p className="text-primary font-medium">{edu.school}</p>
             <p className="text-sm text-foreground/60 mt-1">{edu.duration}</p>
 
             {/* Achievements */}
